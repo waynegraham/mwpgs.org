@@ -1,0 +1,6 @@
+<?php
+	$include_dir = '/includes';
+	
+	$captcha_public = 'captcha_key';
+	$captcha_private = 'private_key';
+?>
